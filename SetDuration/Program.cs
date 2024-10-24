@@ -10,7 +10,7 @@ namespace SetDuration
     /// The duration of a test result is computed as follows:
     ///     Duration = Sum the duration of each sub testresult.
     /// </summary>
-    /// <example>A test result A thats start at 2, and containing two sub test results each
+    /// <example>A test result has a star time of 2 secs and it contains two sub test results each
     /// starting at 3 and 6 will yield the following sequence of durations:
     /// Duration of A = 3
     /// Duration of B = 3
